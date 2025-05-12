@@ -580,3 +580,7 @@ Això és molt útil quan diversos desenvolupadors treballen amb el mateix proje
 > En resum: `__EFMigrationsHistory` és com l’historial intern d’EF Core per controlar l’estat de la base de dades en relació al model definit al codi.
 
 
+## Bibliografia
+
+* [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
+* [Getting Started with EF Core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli)
