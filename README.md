@@ -584,3 +584,4 @@ Això és molt útil quan diversos desenvolupadors treballen amb el mateix proje
 
 * [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
 * [Getting Started with EF Core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli)
+* [Linq (Method Syntax)](https://canro91.github.io/2021/01/18/LinqGuide/)
