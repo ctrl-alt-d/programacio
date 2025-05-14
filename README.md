@@ -17,6 +17,20 @@ Un **ORM** (Object-Relational Mapping) és una tècnica que permet transformar d
 
 **Entity Framework Core (EF Core)** és un ORM desenvolupat per Microsoft per a .NET. Permet treballar amb bases de dades mitjançant objectes de C#. És lleuger, multiplataforma i compatible amb diferents sistemes de bases de dades com SQL Server, SQLite, PostgreSQL, etc.
 
+### Què és CRUD?
+
+**CRUD** és un acrònim que fa referència a les quatre operacions bàsiques que es poden fer amb dades en una aplicació:
+
+- **C**reate (Crear): inserir noves dades a la base de dades.  
+- **R**ead (Llegir): recuperar dades existents.  
+- **U**pdate (Actualitzar): modificar dades existents.  
+- **D**elete (Eliminar): suprimir dades.
+
+Aquestes operacions són fonamentals en gairebé qualsevol aplicació que treballi amb una base de dades. Un **ORM** com Entity Framework Core facilita la implementació d’aquestes operacions mitjançant codi orientat a objectes, sense necessitat d’escriure instruccions SQL directament. Per exemple, en lloc d’escriure una consulta `SELECT` per llegir dades, podem utilitzar mètodes de LINQ sobre col·leccions d’objectes en C#.
+
+En resum, el CRUD és el conjunt d’operacions que es fan habitualment amb les dades, i l’ORM ens ofereix una forma més senzilla, segura i mantenible de dur-les a terme.
+
+
 ### Avantatges i inconvenients d'usar un ORM
 
 | Avantatges                        | Inconvenients                        |
